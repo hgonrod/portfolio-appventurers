@@ -3,28 +3,77 @@ layout: ../layouts/MarkdownLayout.astro
 title: Sobre mí
 ---
 
+# # Sobre mí
+
+- Desarrollador web centrado en el mundo del back-end, buscando aumentar mis conocimientos del mundo del front-end. Ubicado en Santiago de Compostela, Galicia.
 
 
-# Sobre mí
+## # Mis competencias
+##### - Lenguajes de Programación:
+* Python
+* Java
+* JavaScript
+* PHP
+* Groovy
+* Visual Basic
+* VB.NET
 
-¡Hola! Mi nombre es Cris. 
+##### - Frameworks:
+* Django
+* Spring
+* Flask
 
-Soy una desarrolladora web apasionada por el diseño y la implementación de sitios web únicos e innovadores. Me especializo en el uso de **CSS** y **JavaScript puro** (también conocido como Vanilla JavaScript) para crear experiencias web de alta calidad que son tanto estéticamente agradables como funcionales.
+##### - SGBD:
+* MongoDB
+* MySQL
+* MariaDB
 
-## Mis habilidades
+##### - Otras competencias:
+* Linux
+* Docker
+* Git
+* Cisco IOS
 
-- **CSS:** Tengo un amplio conocimiento y experiencia trabajando con CSS, incluyendo flexbox, grid y animaciones CSS. Me encanta usar CSS para hacer que los sitios web sean visualmente atractivos y únicos.
 
-- **JavaScript:** Puedo usar JavaScript puro para agregar interactividad a cualquier sitio web, sin la necesidad de bibliotecas o marcos adicionales. Tengo experiencia con el manejo de eventos, manipulación del DOM, y más.
+## # Experiencia profesional
 
-## Mis proyectos
+##### - 2022 - 2023: CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes)
+* Desarrollo web
+* Desarrollo de scripts
+* Desarrollo de aplicaciones de apoyo
+* Redacción de documentación
 
-He trabajado en una variedad de proyectos, desde sitios web de comercio electrónico hasta aplicaciones web interactivas. Estoy siempre en la búsqueda de nuevas oportunidades para expandir mis habilidades y crear algo especial.
+##### - 2021 - 2022: Gyleven
+* Desarrollo web backend
 
-Si quieres ver algunos de los proyectos en los que he trabajado, puedes visitar mi [portafolio](#).
+##### - 2021: Bahía Software
+* Resolución y escalado de incidencias
 
-## Contacto
+##### - 2017 - 2019: FAGAL (Federación Alzhéimer de Galicia)
+* Desarrollo web full-stack
+* Técnico informático de primer nivel
 
-Si te gusta mi trabajo y crees que podría ser un buen ajuste para tu proyecto, no dudes en ponerte en [contacto](#) conmigo. ¡Siempre estoy abierta a nuevas oportunidades y desafíos!
+## Otras experiencias
 
-¡Gracias por tomarte el tiempo de conocerme un poco mejor!
+##### - 2020: Maprotel
+* Elaboración de scripts SQL
+
+##### - 2017: Cableven
+* Instalación de servicios FTTH
+
+##### - 2018: Coremain
+* Soporte informático de primer nivel
+
+##### - 2015: Setpay
+* Auditoría de seguridad web
+
+##### - 2014: Cortizo
+* Desarrollador VB y VB.NET para aplicaciones de tecnología interna
+
+
+## # Contacto
+
+- 680 970 534
+- hgonzalezro@gmail.com
+
+-
