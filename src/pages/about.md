@@ -39,8 +39,7 @@ title: Sobre mí
 
 ##### - 2022 - 2023: CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes)
 * Desarrollo web
-* Desarrollo de scripts
-* Desarrollo de aplicaciones de apoyo
+* Desarrollo de scripts y aplicaciones de apoyo
 * Redacción de documentación
 
 ##### - 2021 - 2022: Gyleven
